@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+    fog_computing_local:
+        container_name: fog_computing_local
+        restart: unless-stopped
+        build:
+            context: ./local
+            dockerfile: Dockerfile
+        environment:
+            NODE_ENV: production
+            LOCAL_CLOUD_ENDPOINT_URL: "tcp://fog_computing_cloud:5556"
+            LOCAL_LISTENER_ENDPOINT_URL: "tcp://*:5557"

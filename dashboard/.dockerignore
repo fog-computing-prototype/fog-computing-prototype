@@ -1,0 +1,14 @@
+**/node_modules
+**/dist
+**/docs
+**/.vscode
+**/.git
+**/.github
+**/.gitignore
+**/.cache
+**/.tmp
+**/.temp
+**/dist
+**/build
+**/*Dockerfile
+README.md

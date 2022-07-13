@@ -1,0 +1,15 @@
+temperature_sensors:
+
+  - name: temperature-kitchen-01
+    interval: 5
+
+  - name: temperature-livingroom-01
+    interval: 5
+
+  - name: temperature-livingroom-02
+    interval: 5
+
+humidity_sensors:
+
+  - name: humidity-bedroom-01
+    interval: 5

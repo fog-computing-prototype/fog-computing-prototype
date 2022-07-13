@@ -1,0 +1,31 @@
+{
+  "name": "dashboard",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build-vue-ts": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "axios": "^0.27.2",
+    "chart.js": "^3.8.0",
+    "vue": "^3.2.25",
+    "vue-chartjs": "^4.1.1",
+    "vue-router": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.5",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.14",
+    "vue-tsc": "^0.38.3"
+  }
+}

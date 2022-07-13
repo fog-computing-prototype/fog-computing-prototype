@@ -1,0 +1,1 @@
+wsl.exe --cd $pwd
