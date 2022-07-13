@@ -179,8 +179,9 @@ Because our default scripts use only `http` to connect to the GCP instance, use 
 
 - Documentation PDF:
   - https://github.com/fog-computing-prototype/fog-computing-prototype/blob/main/docs/Documentation.pdf
+  - [Download PDF](https://github.com/fog-computing-prototype/fog-computing-prototype/raw/main/docs/Documentation.pdf)
 - Demonstration Video:
-  - TODO
+  - [Download video](https://github.com/fog-computing-prototype/fog-computing-prototype/blob/main/docs/videos/Demonstration-video.mp4?raw=true)
 
 ---
 
@@ -373,7 +374,7 @@ humidity_sensors:
 
 <p align="center">
   <a 
-    href="https://raw.githubusercontent.com/fog-computing-prototype/fog-computing-prototype/main/docs/api/api-docs.png"
+    href="https://raw.githubusercontent.com/fog-computing-prototype/fog-computing-prototype/main/docs/api/API-docs.png"
     title="Open API docs in fullscreen"
     target="_blank">
     <img 
@@ -384,7 +385,7 @@ humidity_sensors:
   </a>
 </p>
 
-- [Open API docs in fullscreen](https://raw.githubusercontent.com/fog-computing-prototype/fog-computing-prototype/main/docs/api/api-docs.png)
+- [Open API docs in fullscreen](https://raw.githubusercontent.com/fog-computing-prototype/fog-computing-prototype/main/docs/api/API-docs.png)
 
 ### Endpoints
 
